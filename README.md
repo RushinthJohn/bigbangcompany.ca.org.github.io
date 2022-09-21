@@ -1,3 +1,3 @@
-# Big Bang Compnay website repo
+# Big Bang Company website repo
 
-This repo contains Big Bang Compnay's HTML files.
+This repo contains Big Bang Company's HTML files.
