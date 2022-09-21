@@ -1,2 +1,3 @@
-# bigbangcompany.ca.org.github.io
-Big Bang Compnay website repo
+# Big Bang Compnay website repo
+
+This repo contains Big Bang Compnay's HTML files.
